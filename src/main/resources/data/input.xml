@@ -1,13 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <books>
     <book>
-        <title>Spring Boot in Action</title>
-        <author>Craig Walls</author>
+        <title>Modifing text 1</title>
+        <author>Modifing author 1</author>
         <year>2022</year>
     </book>
     <book>
         <title>Java: The Complete Reference</title>
         <author>Herbert Schildt</author>
-        <year>2023</year>
+        <year>2024</year>
+    </book>
+    <book>
+        <title>Meu Livro</title>
+        <author>Vincius Fillos</author>
+        <year>2025</year>
+    </book>
+    <book>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+    </book>
+    <book>
+        <title>Design Patterns</title>
+        <author>Erich Gamma</author>
+        <year>1994</year>
+    </book>
+    <book>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt</author>
+        <year>1999</year>
+    </book>
+    <book>
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+        <year>2018</year>
     </book>
 </books>

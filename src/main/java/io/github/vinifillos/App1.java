@@ -9,8 +9,11 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-public class Main {
+public class App1 {
     public static void main(String[] args) {
+
+
+
         // input
         File xmlFile = new File("src/main/resources/data/input.xml");
         File xsltFile = new File("src/main/resources/style/style.xsl");
