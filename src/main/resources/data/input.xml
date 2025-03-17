@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Spring Boot in Action</title>
+        <author>Craig Walls</author>
+        <year>2022</year>
+    </book>
+    <book>
+        <title>Java: The Complete Reference</title>
+        <author>Herbert Schildt</author>
+        <year>2023</year>
+    </book>
+</books>
