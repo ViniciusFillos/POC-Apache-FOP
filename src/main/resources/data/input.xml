@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <books>
     <book>
-        <title>Modifing text 1</title>
-        <author>Modifing author 1</author>
-        <year>2022</year>
-    </book>
-    <book>
-        <title>Java: The Complete Reference</title>
-        <author>Herbert Schildt</author>
-        <year>2024</year>
-    </book>
-    <book>
-        <title>Meu Livro</title>
-        <author>Vincius Fillos</author>
-        <year>2025</year>
-    </book>
-    <book>
         <title>Effective Java</title>
         <author>Joshua Bloch</author>
         <year>2018</year>
@@ -26,18 +11,243 @@
         <year>2008</year>
     </book>
     <book>
-        <title>Design Patterns</title>
-        <author>Erich Gamma</author>
-        <year>1994</year>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt, David Thomas</author>
+        <year>1999</year>
     </book>
     <book>
-        <title>The Pragmatic Programmer</title>
-        <author>Andrew Hunt</author>
-        <year>1999</year>
+        <title>Design Patterns</title>
+        <author>Erich Gamma et al.</author>
+        <year>1994</year>
     </book>
     <book>
         <title>Refactoring</title>
         <author>Martin Fowler</author>
+        <year>1999</year>
+    </book>
+    <book>
+        <title>Java: The Complete Reference</title>
+        <author>Herbert Schildt</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Head First Java</title>
+        <author>Kathy Sierra, Bert Bates</author>
+        <year>2005</year>
+    </book>
+    <book>
+        <title>Java Concurrency in Practice</title>
+        <author>Brian Goetz</author>
+        <year>2006</year>
+    </book>
+    <book>
+        <title>Spring in Action</title>
+        <author>Craig Walls</author>
         <year>2018</year>
+    </book>
+    <book>
+        <title>Microservices Patterns</title>
+        <author>Chris Richardson</author>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>Kubernetes Up &amp; Running</title>
+        <author>Kelsey Hightower et al.</author>
+        <year>2017</year>
+    </book>
+    <book>
+        <title>Docker Deep Dive</title>
+        <author>Nigel Poulton</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Building Microservices</title>
+        <author>Sam Newman</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Continuous Delivery</title>
+        <author>Jez Humble, David Farley</author>
+        <year>2010</year>
+    </book>
+    <book>
+        <title>Site Reliability Engineering</title>
+        <author>Betsy Beyer et al.</author>
+        <year>2016</year>
+    </book>
+    <book>
+        <title>The Phoenix Project</title>
+        <author>Gene Kim et al.</author>
+        <year>2013</year>
+    </book>
+    <book>
+        <title>The DevOps Handbook</title>
+        <author>Gene Kim et al.</author>
+        <year>2016</year>
+    </book>
+    <book>
+        <title>Code Complete</title>
+        <author>Steve McConnell</author>
+        <year>2004</year>
+    </book>
+    <book>
+        <title>You Don't Know JS</title>
+        <author>Kyle Simpson</author>
+        <year>2014</year>
+    </book>
+    <book>
+        <title>Eloquent JavaScript</title>
+        <author>Marijn Haverbeke</author>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>JavaScript: The Good Parts</title>
+        <author>Douglas Crockford</author>
+        <year>2008</year>
+    </book>
+    <book>
+        <title>HTML and CSS: Design and Build Websites</title>
+        <author>Jon Duckett</author>
+        <year>2011</year>
+    </book>
+    <book>
+        <title>CSS Secrets</title>
+        <author>Lea Verou</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>JavaScript and JQuery</title>
+        <author>Jon Duckett</author>
+        <year>2014</year>
+    </book>
+    <book>
+        <title>Python Crash Course</title>
+        <author>Eric Matthes</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Fluent Python</title>
+        <author>Luciano Ramalho</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Automate the Boring Stuff with Python</title>
+        <author>Al Sweigart</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Introduction to the Theory of Computation</title>
+        <author>Michael Sipser</author>
+        <year>1996</year>
+    </book>
+    <book>
+        <title>Structure and Interpretation of Computer Programs</title>
+        <author>Harold Abelson, Gerald Jay Sussman</author>
+        <year>1996</year>
+    </book>
+    <book>
+        <title>Computer Networking: A Top-Down Approach</title>
+        <author>James F. Kurose, Keith W. Ross</author>
+        <year>2017</year>
+    </book>
+    <book>
+        <title>Operating System Concepts</title>
+        <author>Abraham Silberschatz et al.</author>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>Modern Operating Systems</title>
+        <author>Andrew S. Tanenbaum</author>
+        <year>2014</year>
+    </book>
+    <book>
+        <title>Computer Organization and Design</title>
+        <author>David A. Patterson, John L. Hennessy</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>The Art of Computer Programming</title>
+        <author>Donald E. Knuth</author>
+        <year>1968</year>
+    </book>
+    <book>
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen et al.</author>
+        <year>2009</year>
+    </book>
+    <book>
+        <title>Grokking Algorithms</title>
+        <author>Aditya Y. Bhargava</author>
+        <year>2016</year>
+    </book>
+    <book>
+        <title>Algorithm Design Manual</title>
+        <author>Steven S. Skiena</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Cracking the Coding Interview</title>
+        <author>Gayle Laakmann McDowell</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Programming Pearls</title>
+        <author>Jon Bentley</author>
+        <year>1986</year>
+    </book>
+    <book>
+        <title>The Mythical Man-Month</title>
+        <author>Frederick P. Brooks Jr.</author>
+        <year>1975</year>
+    </book>
+    <book>
+        <title>Software Engineering</title>
+        <author>Ian Sommerville</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Peopleware</title>
+        <author>Tom DeMarco, Timothy Lister</author>
+        <year>1987</year>
+    </book>
+    <book>
+        <title>Extreme Programming Explained</title>
+        <author>Kent Beck</author>
+        <year>1999</year>
+    </book>
+    <book>
+        <title>Domain-Driven Design</title>
+        <author>Eric Evans</author>
+        <year>2003</year>
+    </book>
+    <book>
+        <title>The Clean Coder</title>
+        <author>Robert C. Martin</author>
+        <year>2011</year>
+    </book>
+    <book>
+        <title>Soft Skills: The Software Developer's Life Manual</title>
+        <author>John Sonmez</author>
+        <year>2014</year>
+    </book>
+    <book>
+        <title>The Manager’s Path</title>
+        <author>Camille Fournier</author>
+        <year>2017</year>
+    </book>
+    <book>
+        <title>Deep Work</title>
+        <author>Cal Newport</author>
+        <year>2016</year>
+    </book>
+    <book>
+        <title>A Mind for Numbers</title>
+        <author>Barbara Oakley</author>
+        <year>2014</year>
+    </book>
+    <book>
+        <title>How to Win Friends and Influence People</title>
+        <author>Dale Carnegie</author>
+        <year>1936</year>
     </book>
 </books>

@@ -9,16 +9,14 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-public class App1 {
+public class GeradorArquivoPDF {
     public static void main(String[] args) {
 
-
-
-        // input
+        // input files
         File xmlFile = new File("src/main/resources/data/input.xml");
-        File xsltFile = new File("src/main/resources/style/style.xsl");
+        File xsltFile = new File("src/main/resources/styles/style.xsl");
 
-        // output
+        // output file
         File pdfFile = new File("src/main/resources/pdf/output.pdf");
         pdfFile.getParentFile().mkdirs();
 
@@ -35,6 +33,8 @@ public class App1 {
             Result res = new SAXResult(fop.getDefaultHandler());
 
             transformer.transform(src, res);
+
+            System.out.println("PDF gerado com sucesso!");
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
