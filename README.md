@@ -57,3 +57,5 @@ Após a execução do RemovedorDadosXML, os dados do arquivo `input.xml` seram d
 - Altere `styles/style.xsl` para modificar a formatação do PDF.
 - Use diferentes fontes, tamanhos, cores e estilos no XSL-FO.
 - Adicione imagens e tabelas conforme necessário.
+
+  encouraging-second-4fd.notion.site/Apache-FOP-1ba0986205bb809b80a9ff4850b242db?pvs=73
