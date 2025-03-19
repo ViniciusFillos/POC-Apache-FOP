@@ -23,6 +23,8 @@ Este projeto foi desenvolvido para demonstrar a geração de PDFs utilizando o *
 │   │   ├── output.pdf
 │   ├── /styles
 │   │   ├── style.xsl
+│   │   └── /images
+│   │       └── book_image.png
 │── pom.xml
 │── README.md
 ```
@@ -58,4 +60,14 @@ Após a execução do RemovedorDadosXML, os dados do arquivo `input.xml` seram d
 - Use diferentes fontes, tamanhos, cores e estilos no XSL-FO.
 - Adicione imagens e tabelas conforme necessário.
 
-  encouraging-second-4fd.notion.site/Apache-FOP-1ba0986205bb809b80a9ff4850b242db?pvs=73
+## 📚 Documentação Aprofundada
+
+Para uma explicação mais detalhada sobre como personalizar e utilizar o projeto, consulte a documentação completa no Notion:
+
+[Apache FOP Notion](encouraging-second-4fd.notion.site/Apache-FOP-1ba0986205bb809b80a9ff4850b242db?pvs=73)
+
+Na documentação, você encontrará:
+- Exemplos explicados linha a linha
+- Explicações sobre como trabalhar com XSL-FO de forma eficiente
+- Soluções para problemas comuns durante a geração de PDFs
+  
