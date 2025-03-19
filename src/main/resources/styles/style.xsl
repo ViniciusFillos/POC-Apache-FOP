@@ -12,8 +12,22 @@
 
             <fo:page-sequence master-reference="A4">
                 <fo:flow flow-name="xsl-region-body">
-                    <fo:block font-size="24pt" font-weight="bold" margin-bottom="20pt" text-align="center">
+                    <!-- Título com imagem -->
+                    <fo:block font-size="24pt" font-weight="bold" margin-bottom="20pt" text-align="center" line-height="1.5">
                         List of Books
+                    </fo:block>
+                    <fo:block>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
+                        <fo:external-graphic src="src/main/resources/styles/images/book_icon.png" content-width="1.5cm" content-height="1.5cm" display-align="after" margin-top="2cm"/>
                     </fo:block>
 
                     <!-- Definição da tabela -->
@@ -22,22 +36,19 @@
                         <fo:table-column column-width="40%"/>
                         <fo:table-column column-width="20%"/>
 
-                        <!-- Título -->
+                        <!-- Título da tabela -->
                         <fo:table-body>
                             <fo:table-row>
-                                <!-- Título -->
                                 <fo:table-cell>
                                     <fo:block font-size="18pt" font-weight="light" text-align="center">
                                         Books
                                     </fo:block>
                                 </fo:table-cell>
-                                <!-- Author -->
                                 <fo:table-cell>
                                     <fo:block font-size="18pt" font-weight="light" text-align="center">
                                         Author
                                     </fo:block>
                                 </fo:table-cell>
-                                <!-- Author -->
                                 <fo:table-cell>
                                     <fo:block font-size="18pt" font-weight="light" text-align="center">
                                         Year
