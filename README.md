@@ -64,7 +64,7 @@ Após a execução do RemovedorDadosXML, os dados do arquivo `input.xml` seram d
 
 Para uma explicação mais detalhada sobre como personalizar e utilizar o projeto, consulte a documentação completa no Notion:
 
-[Apache FOP Notion](encouraging-second-4fd.notion.site/Apache-FOP-1ba0986205bb809b80a9ff4850b242db?pvs=73)
+[Apache FOP Notion](https://encouraging-second-4fd.notion.site/Apache-FOP-1ba0986205bb809b80a9ff4850b242db)
 
 Na documentação, você encontrará:
 - Exemplos explicados linha a linha
